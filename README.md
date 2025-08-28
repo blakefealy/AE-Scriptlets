@@ -11,7 +11,7 @@ Each script can be run via **Window > [Script Name]** (if installed as a ScriptU
    - **MacOS:** `/Applications/Adobe After Effects [version]/Scripts/`  
    - **Windows:** `C:\Program Files\Adobe\Adobe After Effects [version]\Support Files\Scripts\`  
 3. Restart After Effects.  
-4. Run the script from **File > Scripts** or dock it as a panel from **Window > [Script Name]**.  
+4. Run the script from **Window > [Script Name]**.  
 5. (Optional) Add to **KBar** or another launcher for quick access.
 
 ---
