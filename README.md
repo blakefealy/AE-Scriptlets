@@ -26,6 +26,9 @@ Renames the source Project items of selected layers to match their layer names; 
 ### Sync Item and Layer Name
 An extended version of Push Layer Name to Project Item. When the timeline panel is active, it renames the source Project items of selected layers to match their layer names. When the Project panel is active and a project item is selected, it presents a list of all comps containing that item, allowing the user to selectively push the project item’s name to its linked layers. Because this can be destructive or create unintended results, it’s provided as a separate, feature-rich alternative.
 
+### Open In Essential Graphics
+This simple scriptlet opens the active composition directly in the Essential Graphics panel. It’s useful when working on bulk graphics where changes primarily happen in Essential Graphics, or when managing many comps—since by default, the panel does not automatically follow the user’s active composition.
+
 ---
 
 ## License & Usage
